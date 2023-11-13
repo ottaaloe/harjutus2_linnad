@@ -23,11 +23,11 @@ const LINNAD = [
 ];
 
 function App() {
-  return(
+  return (
     <div className="App">
       {LINNAD.map((linn) => (
-          <Linn andmed={linn} />
-        ))}
+        <Linn key={linn.nimi} andmed={linn} />
+      ))}
     </div>
   );
 }

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/harjutus2_linnad/static/css/main.3ca07950.css",
+    "main.js": "/harjutus2_linnad/static/js/main.4a5da9b9.js",
+    "static/js/787.36518c19.chunk.js": "/harjutus2_linnad/static/js/787.36518c19.chunk.js",
+    "static/media/haapsalu.png": "/harjutus2_linnad/static/media/haapsalu.c484cf39b3ac0b57a7de.png",
+    "static/media/miami.jpg": "/harjutus2_linnad/static/media/miami.953ddc5d2ce3c3781b2c.jpg",
+    "static/media/parnu.jpg": "/harjutus2_linnad/static/media/parnu.67f227ea25c0bd4717d6.jpg",
+    "index.html": "/harjutus2_linnad/index.html",
+    "main.3ca07950.css.map": "/harjutus2_linnad/static/css/main.3ca07950.css.map",
+    "main.4a5da9b9.js.map": "/harjutus2_linnad/static/js/main.4a5da9b9.js.map",
+    "787.36518c19.chunk.js.map": "/harjutus2_linnad/static/js/787.36518c19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ca07950.css",
+    "static/js/main.4a5da9b9.js"
+  ]
+}
